@@ -4,11 +4,14 @@
 
 I am a developer with primarily worked on projects in web and blockchain space 
 
-Skills: 💻HTML,CSS
+Skills: 
+1.💻HTML,CSS
+2.🕸MERN Stack 
+3.📱Blockchain development
 
 - 🔭 I’m currently working on Content Creation 
 - 👯 I’m looking to collaborate on Web  and Blockchain dev projects  
-- 📫 How to reach me: swarajdeshmane545@gmial.com 
+- 📫 How to reach me: swarajdeshmane545@gmail.com 
 - ⚡ Fun fact: Coder with good sense of humour and philosophy 
 
 
